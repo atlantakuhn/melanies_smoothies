@@ -1,3 +1,5 @@
+# any packages added to the requirements file require an import statement here
+# any changes here will automatically be reflected on app startup
 # Import python packages
 import streamlit as st
 from snowflake.snowpark.functions import col
