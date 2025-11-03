@@ -1,3 +1,6 @@
 # requirements.txt
+# used to add a package to a SniS app
+# reboot app for changes to take effect
+
 snowflake-snowpark-python
 streamlit
